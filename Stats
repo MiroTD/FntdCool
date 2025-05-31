@@ -4085,11 +4085,11 @@
             }
         ]
     },
-    "Cowboy Freddy": {
-        "Type": "Single",
-        "Image": "rbxassetid://75145495587772",
-        "Rarity": "Rare",
-        "PlacePrice": 700,
+    "Kaiser": {
+        "Type": "Femlock",
+        "Image": "rbxassetid://133603842467524",
+        "Rarity": "Secret",
+        "PlacePrice": 56000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4101,8 +4101,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100,
-                "Cooldown": 1
+                "Damage": 10000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1000,
@@ -4117,10 +4117,10 @@
                 "Cooldown": 1
             },
             {
-                "Price": 1500,
+                "Price": 150000,
                 "Range": 25,
-                "Damage": 200,
-                "Cooldown": 1
+                "Damage": 200000,
+                "Cooldown": 0.25
             }
         ]
     },
