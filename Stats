@@ -1,9 +1,9 @@
 {
     "Freddy": {
-        "Type": "Poop",
+        "Type": "Single",
         "Image": "rbxassetid://16620053009",
-        "Rarity": "Apex",
-        "PlacePrice": 69,
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -4085,11 +4085,11 @@
             }
         ]
     },
-    "Kaiser": {
-        "Type": "Femlock",
-        "Image": "rbxassetid://133603842467524",
-        "Rarity": "Secret",
-        "PlacePrice": 56000,
+    "Cowboy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://75145495587772",
+        "Rarity": "Rare",
+        "PlacePrice": 700,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4101,8 +4101,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10000,
-                "Cooldown": 0.5
+                "Damage": 100,
+                "Cooldown": 1
             },
             {
                 "Price": 1000,
@@ -4117,10 +4117,10 @@
                 "Cooldown": 1
             },
             {
-                "Price": 150000,
+                "Price": 1500,
                 "Range": 25,
-                "Damage": 200000,
-                "Cooldown": 0.25
+                "Damage": 200,
+                "Cooldown": 1
             }
         ]
     },
@@ -11673,10 +11673,10 @@
         ]
     },
     "Mr Hippo": {
-        "Type": "AOE",
+        "Type": "Single",
         "Image": "rbxassetid://72612922312358",
         "Rarity": "Apex",
-        "PlacePrice": 150000,
+        "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -11688,7 +11688,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 105000,
+                "Damage": 100,
                 "Cooldown": 1
             }
         ]
@@ -12316,10 +12316,10 @@
         ]
     },
     "Toxic Springtrap": {
-        "Type": "Paralell",
+        "Type": "Pierce Spread + Poison + Wither",
         "Image": "rbxassetid://128503373439117",
         "Rarity": "Apex",
-        "PlacePrice": 80000,
+        "PlacePrice": 44000,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Plague", "Description": "Deal +25% Poison damage and Apply 17% Wither (25% Shiny) for 10 seconds"},
@@ -12365,8 +12365,8 @@
             {
                 "Price": 80000,
                 "Range": 40,
-                "Damage": 6969696969,
-                "Cooldown": 0.65,
+                "Damage": 117000,
+                "Cooldown":2.25,
                 "Burn": 5850,
                 "BurnTime": 1.2,
                 "Wither": 1.17,
@@ -12375,3 +12375,4 @@
             }
         ]
     }
+}
