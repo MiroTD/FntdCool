@@ -12316,10 +12316,10 @@
         ]
     },
     "Toxic Springtrap": {
-        "Type": "Pierce Spread + Poison + Wither",
+        "Type": "Paralell",
         "Image": "rbxassetid://128503373439117",
         "Rarity": "Apex",
-        "PlacePrice": 56000,
+        "PlacePrice": 80000,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Plague", "Description": "Deal +25% Poison damage and Apply 17% Wither (25% Shiny) for 10 seconds"},
@@ -12365,8 +12365,8 @@
             {
                 "Price": 80000,
                 "Range": 40,
-                "Damage": 11567777,
-                "Cooldown":2.25,
+                "Damage": 6969696969,
+                "Cooldown": 0.65,
                 "Burn": 5850,
                 "BurnTime": 1.2,
                 "Wither": 1.17,
