@@ -1,9 +1,9 @@
 {
     "Freddy": {
-        "Type": "Single",
+        "Type": "Poop",
         "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
+        "Rarity": "Apex",
+        "PlacePrice": 69,
         "Max": 8,
         "Offset": 0.3,
         "hitboxOffset": {
