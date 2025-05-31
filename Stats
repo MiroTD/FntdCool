@@ -11673,10 +11673,10 @@
         ]
     },
     "Mr Hippo": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://72612922312358",
         "Rarity": "Apex",
-        "PlacePrice": 100,
+        "PlacePrice": 150000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -11688,7 +11688,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 105000,
                 "Cooldown": 1
             }
         ]
@@ -12374,5 +12374,63 @@
                 "WitherTime": 10
             }
         ]
+    },
+    "Bachira" : {
+     "Type": "Dribbler",
+     "Image": "rbxassetid://110322489661486",
+     "Rarity": "Mythic",
+     "PlacePrice": 12500,
+     "Offset": 0,
+     "Max": 1,
+     "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+},
+    "Upgrades": [
+        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 1.5,
+                "Burn": 5850,
+                "BurnTime": 1.2,
+                "Wither": 1.17,
+                "ShinyWither": 1.25,
+                "WitherTime": 10
+            },
+            {
+                "Price": 55000,
+                "Range": 34,
+                "Damage": 70000,
+                "Cooldown": 2.25,
+                "Burn": 5850,
+                "BurnTime": 1.2,
+                "Wither": 1.17,
+                "ShinyWither": 1.25,
+                "WitherTime": 10
+            },
+            {
+                "Price": 65000,
+                "Range": 37,
+                "Damage": 95000,
+                "Cooldown": 2.25,
+                "Burn": 5850,
+                "BurnTime": 1.2,
+                "Wither": 1.17,
+                "ShinyWither": 1.25,
+                "WitherTime": 10
+            },
+            {
+                "Price": 80000,
+                "Range": 40,
+                "Damage": 8000,
+                "Cooldown": 0.5,
+                "Burn": 5850,
+                "BurnTime": 1.2,
+                "Wither": 1.17,
+                "ShinyWither": 1.25,
+                "WitherTime": 10
+            }
+        ]
     }
-}
