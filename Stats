@@ -1716,11 +1716,11 @@
             }
         ]
     },
-    "Phantom Cupcake": {
+    "Shadow Cupcake": {
         "Type": "Single",
-        "Image": "rbxassetid://18363537562",
-        "Rarity": "Secret",
-        "PlacePrice": 800,
+        "Image": "rbxassetid://90088233350935",
+        "Rarity": "Mythic",
+        "PlacePrice": 8000,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -1731,8 +1731,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1
+                "Damage": 1000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1400,
@@ -1749,8 +1749,8 @@
             {
                 "Price": 2400,
                 "Range": 25,
-                "Damage": 250,
-                "Cooldown": 1
+                "Damage": 3000,
+                "Cooldown": 0.5
             }
         ]
     },
