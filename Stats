@@ -970,9 +970,9 @@
             }
         ]
     },
-    "Baker Toy Chica": {
+    "Zombie Bonnie": {
         "Type": "Explosion",
-        "Image": "rbxassetid://18161347460",
+        "Image": "rbxassetid://73528911184096",
         "Rarity": "Epic",
         "PlacePrice": 800,
         "Max": 3,
@@ -985,8 +985,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 30,
-                "Cooldown": 1
+                "Damage": 300,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1400,
@@ -1003,7 +1003,7 @@
             {
                 "Price": 2500,
                 "Range": 25,
-                "Damage": 75,
+                "Damage": 3500,
                 "Cooldown": 0.8
             }
         ]
