@@ -2,7 +2,7 @@
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
+        "Rarity": "Apex",
         "PlacePrice": 50,
         "Max": 8,
         "Offset": 0.3,
@@ -853,11 +853,11 @@
             }
         ]
     },
-    "Pirate Withered Foxy": {
-        "Type": "Single",
-        "Image": "rbxassetid://17851205149",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
+    "BemmyBlox": {
+        "Type": "COOLBEMMY",
+        "Image": "rbxassetid://77987494868953",
+        "Rarity": "Burn",
+        "PlacePrice": 15000,
         "Offset": 0.55,
         "Max": 3,
         "hitboxOffset": {
@@ -869,8 +869,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 25,
-                "Cooldown": 0.5
+                "Damage": 2500,
+                "Cooldown": 0.2
             },
             {
                 "Price": 800,
@@ -887,8 +887,8 @@
             {
                 "Price": 2000,
                 "Range": 20,
-                "Damage": 50,
-                "Cooldown": 0.3
+                "Damage": 5000,
+                "Cooldown": 0.1
             }
         ]
     },
