@@ -737,11 +737,11 @@
             }
         ]
     },
-    "Endo 02": {
-        "Type": "Single",
-        "Image": "rbxassetid://17690383931",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
+    "Lavinho": {
+        "Type": "Dance",
+        "Image": "rbxassetid://84584823218099",
+        "Rarity": "Burn",
+        "PlacePrice": 60000,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -753,8 +753,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 30,
-                "Cooldown": 0.3
+                "Damage": 3000,
+                "Cooldown": 0.2
             },
             {
                 "Price": 1200,
@@ -769,10 +769,10 @@
                 "Cooldown": 0.3
             },
             {
-                "Price": 2200,
+                "Price": 12500,
                 "Range": 25,
                 "Damage": 60,
-                "Cooldown": 0.3
+                "Cooldown": 0.2
             }
         ]
     },
