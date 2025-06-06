@@ -617,10 +617,10 @@
             }
         ]
     },
-    "Puppet": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://17802016570",
-        "Rarity": "Secret",
+    "Ta Ta Sahur": {
+        "Type": "Sahur",
+        "Image": "rbxassetid://121064295975996",
+        "Rarity": "Burn",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
@@ -633,8 +633,8 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 7
+                "Damage": 10000,
+                "Cooldown": 0.62
             },
             {
                 "Price": 15000,
@@ -651,8 +651,8 @@
             {
                 "Price": 25000,
                 "Range": 45,
-                "Damage": 1600,
-                "Cooldown": 5
+                "Damage": 35000,
+                "Cooldown": 0.8
             }
         ]
     },
@@ -739,7 +739,7 @@
     },
     "Lavinho": {
         "Type": "Dance",
-        "Image": "rbxassetid://84584823218099",
+        "Image": "rbxassetid://121064295975996",
         "Rarity": "Burn",
         "PlacePrice": 60000,
         "Max": 4,
