@@ -815,10 +815,10 @@
             }
         ]
     },
-    "Rockin Bonnie": {
+    "Birthday Funtime Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://17689695988",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://117911299758586",
+        "Rarity": "Burn",
         "PlacePrice": 500,
         "Max": 5,
         "hitboxOffset": {
@@ -830,7 +830,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 10000,
                 "Cooldown": 0.5
             },
             {
@@ -848,7 +848,7 @@
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 175,
+                "Damage": 17500,
                 "Cooldown": 0.5
             }
         ]
