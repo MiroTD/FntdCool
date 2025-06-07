@@ -3559,11 +3559,11 @@
             }
         ]
     },
-    "Rave Demon Bonnie": {
+    "Bone Bear": {
         "Type": "Cone AOE",
-        "Image": "rbxassetid://100372638867635",
-        "Rarity": "Secret",
-        "PlacePrice": 7500,
+        "Image": "rbxassetid://121686321245983",
+        "Rarity": "Burn",
+        "PlacePrice": 75000,
         "Offset": 0.7,
         "Max": 3,
         "hitboxOffset": {
@@ -3575,8 +3575,8 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 120,
-                "Cooldown": 0.35
+                "Damage": 1200,
+                "Cooldown": 0.2
             },
             {
                 "Price": 8000,
@@ -3599,8 +3599,8 @@
             {
                 "Price": 15000,
                 "Range": 25,
-                "Damage": 300,
-                "Cooldown": 0.35
+                "Damage": 10000,
+                "Cooldown": 0.2
             }
         ]
     },
