@@ -1133,9 +1133,9 @@
             }
         ]
     },
-    "Seven Seas Foxy": {
+    "Blimp Boy": {
         "Type": "Pierce",
-        "Image": "rbxassetid://18255813345",
+        "Image": "rbxassetid://136167482897006",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 4,
@@ -1149,7 +1149,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 600,
+                "Damage": 60000,
                 "Cooldown": 3.5
             },
             {
@@ -1161,7 +1161,7 @@
             {
                 "Price": 10000,
                 "Range": 30,
-                "Damage": 1100,
+                "Damage": 110000,
                 "Cooldown": 3.2
             },
             {
