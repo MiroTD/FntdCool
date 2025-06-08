@@ -1133,10 +1133,10 @@
             }
         ]
     },
-    "Blimp Boy": {
+    "ExampleSlot": {
         "Type": "Pierce",
         "Image": "rbxassetid://136167482897006",
-        "Rarity": "Secret",
+        "Rarity": "Uncommon",
         "PlacePrice": 5000,
         "Max": 4,
         "hitboxOffset": {
@@ -2033,11 +2033,11 @@
             }
         ]
     },
-    "Witch Toy Chica": {
+    "Archived SpringBonnie": {
         "Type": "Poison",
-        "Image": "rbxassetid://18363391561",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
+        "Image": "rbxassetid://116677546809441",
+        "Rarity": "Limited",
+        "PlacePrice": 5000,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals an extra 30% damage in poison"},
         "hitboxOffset": {
@@ -2050,8 +2050,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
-                "Cooldown": 3.5,
+                "Damage": 20000,
+                "Cooldown": 2,
                 "Poison": 10,
                 "PoisonLength": 3
             },
@@ -2074,8 +2074,8 @@
             {
                 "Price": 1200,
                 "Range": 25,
-                "Damage": 300,
-                "Cooldown": 2,
+                "Damage": 30000,
+                "Cooldown": 1.5,
                 "Poison": 30,
                 "PoisonLength": 3
             }
