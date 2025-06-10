@@ -771,7 +771,7 @@
             {
                 "Price": 12500,
                 "Range": 25,
-                "Damage": 60,
+                "Damage": 9000,
                 "Cooldown": 0.2
             }
         ]
@@ -1133,11 +1133,11 @@
             }
         ]
     },
-    "ExampleSlot": {
+    "Chicken Trapie": {
         "Type": "Pierce",
         "Image": "rbxassetid://136167482897006",
-        "Rarity": "Uncommon",
-        "PlacePrice": 5000,
+        "Rarity": "Mythic",
+        "PlacePrice": 250,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -1149,8 +1149,8 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 60000,
-                "Cooldown": 3.5
+                "Damage": 6000,
+                "Cooldown": 2
             },
             {
                 "Price": 7500,
@@ -1167,8 +1167,8 @@
             {
                 "Price": 12500,
                 "Range": 30,
-                "Damage": 1350,
-                "Cooldown": 3
+                "Damage": 5000,
+                "Cooldown": 1
             }
         ]
     },
