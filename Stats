@@ -2193,10 +2193,10 @@
             }
         ]
     },
-    "Enforcer Bonnie": {
+    "GlitchTrap": {
         "Type": "Continuous",
-        "Image": "rbxassetid://18673234413",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://116397206113363",
+        "Rarity": "Epic",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
