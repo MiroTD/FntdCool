@@ -2037,7 +2037,7 @@
         "Type": "Poison",
         "Image": "rbxassetid://116677546809441",
         "Rarity": "Limited",
-        "PlacePrice": 5000,
+        "PlacePrice": 2500,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals an extra 30% damage in poison"},
         "hitboxOffset": {
@@ -2050,8 +2050,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 20000,
-                "Cooldown": 2,
+                "Damage": 15000,
+                "Cooldown": 1,
                 "Poison": 10,
                 "PoisonLength": 3
             },
@@ -2074,7 +2074,7 @@
             {
                 "Price": 1200,
                 "Range": 25,
-                "Damage": 30000,
+                "Damage": 50000,
                 "Cooldown": 1.5,
                 "Poison": 30,
                 "PoisonLength": 3
