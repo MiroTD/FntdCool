@@ -3563,7 +3563,7 @@
         "Type": "Cone AOE",
         "Image": "rbxassetid://121686321245983",
         "Rarity": "Burn",
-        "PlacePrice": 75000,
+        "PlacePrice": 27000,
         "Offset": 0.7,
         "Max": 3,
         "hitboxOffset": {
@@ -3575,7 +3575,7 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 1200,
+                "Damage": 1800,
                 "Cooldown": 0.2
             },
             {
@@ -3599,7 +3599,7 @@
             {
                 "Price": 15000,
                 "Range": 25,
-                "Damage": 10000,
+                "Damage": 6000,
                 "Cooldown": 0.2
             }
         ]
