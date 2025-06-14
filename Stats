@@ -6895,11 +6895,11 @@
         ]
     },
 
-    "Augmented Endo": {
-        "Type": "Single",
-        "Image": "rbxassetid://135702265461354",
-        "Rarity": "Epic",
-        "PlacePrice": 600,
+    "VR Toy Bonnie": {
+        "Type": "Vision AOE",
+        "Image": "rbxassetid://83414762337930",
+        "Rarity": "Secret",
+        "PlacePrice": 3500,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -6911,8 +6911,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 70,
-                "Cooldown": 0.3
+                "Damage": 500,
+                "Cooldown": 0.2
             },
             {
                 "Price": 1200,
@@ -6929,17 +6929,17 @@
             {
                 "Price": 2200,
                 "Range": 25,
-                "Damage": 150,
-                "Cooldown": 0.3
+                "Damage": 1500,
+                "Cooldown": 0.2
             }
         ]
     },
 
-    "Ghastly Phantom Freddy": {
-        "Type": "Single",
-        "Image": "rbxassetid://107487482857244",
-        "Rarity": "Secret",
-        "PlacePrice": 10000,
+    "VR Toy Chica": {
+        "Type": "Vision Stun",
+        "Image": "rbxassetid://124002719176680",
+        "Rarity": "Mythic",
+        "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6951,8 +6951,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 120,
-                "Cooldown": 0.05
+                "Damage": 1200,
+                "Cooldown": 0.5
             },
             {
                 "Price": 20000,
@@ -6969,8 +6969,8 @@
             {
                 "Price": 40000,
                 "Range": 30,
-                "Damage": 220,
-                "Cooldown": 0.05
+                "Damage": 2200,
+                "Cooldown": 0.5
             }
         ]
     },
@@ -7020,11 +7020,11 @@
             }
         ]
     },
-    "Rockstar Freddy": {
+    "VR Toy Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://115841320633400",
-        "Rarity": "Rare",
-        "PlacePrice": 600,
+        "Rarity": "Nightmare",
+        "PlacePrice": 14000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -7036,8 +7036,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
-                "Cooldown": 3
+                "Damage": 20000,
+                "Cooldown": 2
             },
             {
                 "Price": 800,
@@ -7054,8 +7054,8 @@
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 400,
-                "Cooldown": 1.5
+                "Damage": 40000,
+                "Cooldown": 1
             }
         ]
     },
