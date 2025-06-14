@@ -7021,9 +7021,9 @@
         ]
     },
     "VR Toy Freddy": {
-        "Type": "Splash",
-        "Image": "rbxassetid://115841320633400",
-        "Rarity": "Nightmare",
+        "Type": "Vision AOE",
+        "Image": "rbxassetid://79338916768124",
+        "Rarity": "Apex",
         "PlacePrice": 14000,
         "Offset": 0,
         "Max": 3,
