@@ -4936,11 +4936,11 @@
             }
         ]
     },
-"Funtime Foxy": {
-        "Type": "Splash",
-        "Image": "rbxassetid://130210196007742",
+"Toxic Waste Freddy": {
+        "Type": "Poison",
+        "Image": "rbxassetid://90014860925478",
         "Rarity": "Rare",
-        "PlacePrice": 450,
+        "PlacePrice": 1250,
         "Offset": 0.3,
         "Max": 3,
         "hitboxOffset": {
@@ -4952,8 +4952,8 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 80,
-                "Cooldown": 1.5
+                "Damage": 8000,
+                "Cooldown": 5
             },
             {
                 "Price": 600,
@@ -4970,14 +4970,14 @@
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 125,
-                "Cooldown": 1
+                "Damage": 12500,
+                "Cooldown": 4
             }
         ]
     },
-"Funtime Freddy": {
+"Ghastly Rockstar Freddy": {
         "Type": "Splash",
-        "Image": "rbxassetid://113691386593768",
+        "Image": "rbxassetid://114075482979999",
         "Rarity": "Epic",
         "PlacePrice": 7500,
         "Offset": 0,
@@ -4991,8 +4991,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 500,
-                "Cooldown": 1
+                "Damage": 5000,
+                "Cooldown": 3
             },
             {
                 "Price": 10000,
@@ -5009,17 +5009,17 @@
             {
                 "Price": 14000,
                 "Range": 25,
-                "Damage": 800,
-                "Cooldown": 1
+                "Damage": 8000,
+                "Cooldown": 2
             }
         ]
     },
 
-"Mendo": {
-        "Type": "Trap Layer",
-        "Image": "rbxassetid://117153987968201",
-        "Rarity": "Secret",
-        "PlacePrice": 8000,
+"Deadly Bonnie": {
+        "Type": "Poison Aeo",
+        "Image": "rbxassetid://138468722977106",
+        "Rarity": "Mythic",
+        "PlacePrice": 12500,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Beartrap", "Description": "Spawns Beartraps that last forever until an enemy steps on them (300 max)"},
@@ -5033,8 +5033,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 4000,
-                "Cooldown": 4.5
+                "Damage": 5000,
+                "Cooldown": 2
             },
             {
                 "Price": 10000,
@@ -5051,16 +5051,16 @@
             {
                 "Price": 14000,
                 "Range": 20,
-                "Damage": 8000,
-                "Cooldown": 4
+                "Damage": 10000,
+                "Cooldown": 2
             }
         ]
     },
-"Lolbit": {
+"Toxicity Mangle": {
         "Type": "Cone Aoe Stun",
-        "Image": "rbxassetid://123600440160662",
+        "Image": "rbxassetid://80265040809730",
         "Rarity": "Secret",
-        "PlacePrice": 4000,
+        "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -5072,7 +5072,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 800,
+                "Damage": 8000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -5096,18 +5096,18 @@
             {
                 "Price": 7000,
                 "Range": 25,
-                "Damage": 1800,
+                "Damage": 20000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             }
         ]
     },
-    "Tangle": {
-        "Type": "Splash",
-        "Image": "rbxassetid://75252636792874",
-        "Rarity": "Secret",
-        "PlacePrice": 14500,
+    "Chemical Warlord Foxy": {
+        "Type": "Aoe + Poison Stun",
+        "Image": "rbxassetid://122066060604111",
+        "Rarity": "Burn",
+        "PlacePrice": 50000,
         "Offset": -1.2,
         "Max": 3,
         "hitboxOffset": {
@@ -5119,8 +5119,8 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 800,
-                "Cooldown": 1.25
+                "Damage": 80000,
+                "Cooldown": 3
             },
             {
                 "Price": 15000,
@@ -5137,16 +5137,16 @@
             {
                 "Price": 25000,
                 "Range": 22,
-                "Damage": 1250,
+                "Damage": 90000,
                 "Cooldown": 1
             }
         ]
     },
-"Music Man": {
-        "Type": "Cooldown Booster",
-        "Image": "rbxassetid://77906930997624",
+"Toxic Staff Bot": {
+        "Type": "Cooldown Boost",
+        "Image": "rbxassetid://139650474729633",
         "Rarity": "Nightmare",
-        "PlacePrice": 1000,
+        "PlacePrice": 150,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -5161,7 +5161,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.3
             },
             {
                 "Price": 1200,
@@ -5182,7 +5182,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.7
+                "CooldownBoost": 0.15
             }
         ]
     },
@@ -5225,11 +5225,11 @@
             }
         ]
     },
-"Elizabeth": {
+"70K Bon Bon": {
         "Type": "Splash Slow",
-        "Image": "rbxassetid://102659257102214",
+        "Image": "rbxassetid://116920328971445",
         "Rarity": "Secret",
-        "PlacePrice": 400,
+        "PlacePrice": 4000,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Attacks slow enemies 30% by"},
@@ -5242,7 +5242,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 150,
+                "Damage": 1500,
                 "Cooldown": 1,
                 "Slow": 0.7
             },
@@ -5264,7 +5264,7 @@
                 "Price": 700,
                 "Range": 20,
                 "Damage": 300,
-                "Cooldown": 1,
+                "Cooldown": 2500,
                 "Slow": 0.7
             }
         ]
@@ -5527,11 +5527,11 @@
         ]
     },
 
-     "Fazbear Mafia": {
-        "Type": "Attacking Summoner",
-        "Image": "rbxassetid://131447165249179",
-        "Rarity": "Secret",
-        "PlacePrice": 8000,
+     "Corrupt Bear5": {
+        "Type": "BEAR5-5-5-666",
+        "Image": "rbxassetid://130586985811987",
+        "Rarity": "Nightmare",
+        "PlacePrice": 800,
         "Offset": 0.3,
         "Max": 2,
         "Passive": {"Name": "Fazbear Family", "Description": "Spawns armored cars to help assist him (Concept by Nogurt)"},
@@ -5545,7 +5545,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 800,
-                "Cooldown": 0.4,
+                "Cooldown": 0.2,
                 "SummonTime": 30,
                 "Unit": "Fazbear Mafia Car",
                 "WalkSpeed": 15,
@@ -5578,7 +5578,7 @@
                 "Price": 20000,
                 "Range": 35,
                 "Damage": 1400,
-                "Cooldown": 0.4,
+                "Cooldown": 0.1,
                 "SummonTime": 30,
                 "Unit": "Fazbear Mafia Car",
                 "WalkSpeed": 15,
