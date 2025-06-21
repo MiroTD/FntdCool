@@ -5143,7 +5143,7 @@
         ]
     },
 "Toxic Staff Bot": {
-        "Type": "Cooldown Boost",
+        "Type": "Damage Boost",
         "Image": "rbxassetid://139650474729633",
         "Rarity": "Nightmare",
         "PlacePrice": 150,
@@ -5161,7 +5161,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.3
+                "DamageBoost": 1.5
             },
             {
                 "Price": 1200,
@@ -5182,7 +5182,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.15
+                "DamageBoost": 2
             }
         ]
     },
