@@ -7649,11 +7649,11 @@
     },
 
 
-    "Mr Can Do": {
-        "Type": "Single",
-        "Image": "rbxassetid://127532360538478",
-        "Rarity": "Secret",
-        "PlacePrice": 700,
+    "Angelic Foxy": {
+        "Type": "Cooldown Booster",
+        "Image": "rbxassetid://86015869972722",
+        "Rarity": "Rare",
+        "PlacePrice": 1250,
         "Offset": -1.75,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -7666,7 +7666,7 @@
                       {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 200,
                 "Cooldown": 1,
                 "CooldownBoost": 0.95
             },
@@ -7687,7 +7687,7 @@
             {
                 "Price": 1400,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 500,
                 "Cooldown": 1,
                 "CooldownBoost": 0.8
             }
@@ -7695,11 +7695,11 @@
     },
 
 
-    "Geared Endo": {
+    "Snohomishtrap": {
         "Type": "Splash Continuous",
-        "Image": "rbxassetid://89920479623802",
-        "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "Image": "rbxassetid://89419911006577",
+        "Rarity": "Epic",
+        "PlacePrice": 7000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -7729,17 +7729,17 @@
             {
                 "Price": 40000,
                 "Range": 27,
-                "Damage": 125,
+                "Damage": 80,
                 "Cooldown": 0.05
             }
         ]
     },
 
 
-    "Duelist Puppet": {
+    "Angelic Homies": {
         "Type": "Pierce",
-        "Image": "rbxassetid://127027664698206",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://111451510090441",
+        "Rarity": "Mythic",
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
@@ -7752,7 +7752,7 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 1800,
+                "Damage": 2500,
                 "Cooldown": 1.2
             },
             {
@@ -7770,7 +7770,7 @@
             {
                 "Price": 20000,
                 "Range": 27,
-                "Damage": 3200,
+                "Damage": 5000,
                 "Cooldown": 1
             }
 
@@ -7778,11 +7778,11 @@
     },
 
 
-    "Mechanical Freddy": {
-        "Type": "Single",
-        "Image": "rbxassetid://116234603453447",
-        "Rarity": "Epic",
-        "PlacePrice": 2750,
+    "IM ANGELIC": {
+        "Type": "AOE",
+        "Image": "rbxassetid://128304493645167",
+        "Rarity": "Secret",
+        "PlacePrice": 27500,
         "Offset": -2,
         "Max": 3,
         "hitboxOffset": {
@@ -7794,8 +7794,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 400,
-                "Cooldown": 1.2
+                "Damage": 40000,
+                "Cooldown": 4
             },
             {
                 "Price": 4000,
@@ -7812,18 +7812,18 @@
             {
                 "Price": 9000,
                 "Range": 22,
-                "Damage": 700,
-                "Cooldown": 1
+                "Damage": 70000,
+                "Cooldown": 5
             }
         ]
 
     },
 
-    "Brawler Foxy": {
+    "Angelic Prime": {
         "Type": "Single",
-        "Image": "rbxassetid://105737871914622",
-        "Rarity": "Rare",
-        "PlacePrice": 600,
+        "Image": "rbxassetid://96463105603537",
+        "Rarity": "Burn",
+        "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -7835,7 +7835,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 80,
+                "Damage": 80000,
                 "Cooldown": 1
             },
             {
@@ -7853,17 +7853,17 @@
             {
                 "Price": 1400,
                 "Range": 17,
-                "Damage": 125,
+                "Damage": 87500,
                 "Cooldown": 0.7
             }
         ]
     },
 
-    "Steampunk Mangle": {
+    "Nightmare Raider": {
         "Type": "Splash",
-        "Image": "rbxassetid://79766987241564",
-        "Rarity": "Secret",
-        "PlacePrice": 11000,
+        "Image": "rbxassetid://84196314089857",
+        "Rarity": "Epic",
+        "PlacePrice": 1250,
         "Offset": -2,
         "Max": 3,
         "hitboxOffset": {
@@ -7899,10 +7899,10 @@
         ]
     },
 
-    "Diver Endo": {
+    "Bloked Bonnie": {
         "Type": "Cone AOE + Slow",
-        "Image": "rbxassetid://123144805229790",
-        "Rarity": "Nightmare",
+        "Image": "rbxassetid://109585546516750",
+        "Rarity": "Secret",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
@@ -7949,11 +7949,11 @@
         ]
     },
 
-    "Mechanic Afton": {
+    "DevilTrap": {
         "Type": "Cone AOE + Summon",
-        "Image": "rbxassetid://130168982034034",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
+        "Image": "rbxassetid://120371274167505",
+        "Rarity": "Nightmare",
+        "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -7965,8 +7965,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 150,
-                "Cooldown": 0.6,
+                "Damage": 15000,
+                "Cooldown": 2,
                 "SummonTime": 15,
                 "Unit": "Mechanical Cupcake",
                 "WalkSpeed": 15
@@ -7992,8 +7992,8 @@
             {
                 "Price": 1200,
                 "Range": 25,
-                "Damage": 240,
-                "Cooldown": 0.5,
+                "Damage": 24000,
+                "Cooldown": 2,
                 "SummonTime": 15,
                 "Unit": "Mechanical Cupcake",
                 "WalkSpeed": 15
@@ -8001,11 +8001,11 @@
         ]
     },
 
-    "Kronos Endo Freddy": {
+    "Krampus 666": {
         "Type": "Nuke + Passive",
-        "Image": "rbxassetid://138634254895239",
+        "Image": "rbxassetid://73624107232230",
         "Rarity": "Apex",
-        "PlacePrice": 50000,
+        "PlacePrice": 666,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Eternity Clock", "Description": "Every 40 seconds freezes all enemies on the map for 10 seconds."},
@@ -8019,7 +8019,7 @@
                 "Price": 0,
                 "Range": 27,
                 "Damage": 45000,
-                "Cooldown": 3
+                "Cooldown": 1
             },
             {
                 "Price": 65000,
@@ -8037,19 +8037,19 @@
                 "Price": 100000,
                 "Range": 40,
                 "Damage": 80000,
-                "Cooldown": 2
+                "Cooldown": 1
             }
         ]
     },
     
-    "Windup Bonnie": {
-        "Type": "Cooldown Booster",
-        "Image": "rbxassetid://95407534025882",
-        "Rarity": "Mythic",
+    "Bear Brothers": {
+        "Type": "Cooldown Booster + RNG Damage 1000-25000",
+        "Image": "rbxassetid://86253545167024",
+        "Rarity": "Secret",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
-        "NoEnemyAttack": true,
+        "NoEnemyAttack": false,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8060,7 +8060,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 0.1,
                 "CooldownBoost": 0.9
             },
             {
@@ -8081,7 +8081,7 @@
                 "Price": 2500,
                 "Range": 20,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 0.05,
                 "CooldownBoost": 0.76
             }
         ]
