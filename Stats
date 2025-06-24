@@ -7823,7 +7823,7 @@
         "Type": "Single",
         "Image": "rbxassetid://96463105603537",
         "Rarity": "Burn",
-        "PlacePrice": 6000,
+        "PlacePrice": 60000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -7853,7 +7853,7 @@
             {
                 "Price": 1400,
                 "Range": 17,
-                "Damage": 87500,
+                "Damage": 100000,
                 "Cooldown": 0.7
             }
         ]
@@ -7862,7 +7862,7 @@
     "Nightmare Raider": {
         "Type": "Splash",
         "Image": "rbxassetid://84196314089857",
-        "Rarity": "Epic",
+        "Rarity": "Nightmare",
         "PlacePrice": 1250,
         "Offset": -2,
         "Max": 3,
@@ -8002,10 +8002,10 @@
     },
 
     "Krampus 666": {
-        "Type": "Nuke + Passive",
+        "Type": "Clear Steps + AOE STUN 5-6S",
         "Image": "rbxassetid://73624107232230",
         "Rarity": "Apex",
-        "PlacePrice": 666,
+        "PlacePrice": 66666,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Eternity Clock", "Description": "Every 40 seconds freezes all enemies on the map for 10 seconds."},
@@ -8018,8 +8018,8 @@
                       {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 45000,
-                "Cooldown": 1
+                "Damage": 90000,
+                "Cooldown": 2
             },
             {
                 "Price": 65000,
@@ -8036,7 +8036,7 @@
             {
                 "Price": 100000,
                 "Range": 40,
-                "Damage": 80000,
+                "Damage": 110000,
                 "Cooldown": 1
             }
         ]
