@@ -8346,10 +8346,10 @@
             }
         ]
     },
-"Freddy Frostbear": {
+"Isagi": {
         "Type": "Pierce Slow + Passive",
-        "Image": "rbxassetid://130800122285848",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://139487099097796",
+        "Rarity": "Rare",
         "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
@@ -8396,7 +8396,7 @@
     },
     "Dark Frostbear": {
         "Type": "Cone AOE Slow + Passive",
-        "Image": "rbxassetid://79281029634533",
+        "Image": "rbxassetid://139487099097796",
         "Rarity": "Forgotten",
         "PlacePrice": 400,
         "Offset": 0.25,
@@ -8442,11 +8442,11 @@
             }
         ]
     },
-    "Reindeer Withered Bonnie": {
+    "Gagamaru": {
         "Type": "Continuous",
-        "Image": "rbxassetid://128903190044752",
-        "Rarity": "Secret",
-         "PlacePrice": 14500,
+        "Image": "rbxassetid://107647345940459",
+        "Rarity": "Epic",
+         "PlacePrice": 8500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -8458,7 +8458,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 70,
+                "Damage": 50,
                 "Cooldown": 0.05
             },
             {
@@ -8476,7 +8476,7 @@
             {
                 "Price": 40000,
                 "Range": 30,
-                "Damage": 150,
+                "Damage": 75,
                 "Cooldown": 0.05
             }
         ]
@@ -8582,10 +8582,10 @@
             }
         ]
     },
-    "Present Boy": {
+    "Shidou": {
         "Type": "Splash",
-        "Image": "rbxassetid://107970281144022",
-        "Rarity": "Epic",
+        "Image": "rbxassetid://127778863681367",
+        "Rarity": "Mythic",
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
@@ -8598,7 +8598,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 5000,
                 "Cooldown": 4
             },
             {
@@ -8616,8 +8616,8 @@
             {
                 "Price": 1400,
                 "Range": 25,
-                "Damage": 900,
-                "Cooldown": 3
+                "Damage": 9000,
+                "Cooldown": 2
             }
         ]
     },
@@ -8717,10 +8717,10 @@
             }
         ]
     },
-    "Nutcracker Chica": {
+    "Yukimaya": {
         "Type": "Single",
-        "Image": "rbxassetid://139406919744982",
-        "Rarity": "Mythic",
+        "Image": "rbxassetid://87312399709950",
+        "Rarity": "Secret",
         "PlacePrice": 1500,
         "Offset": -1,
         "Max": 3,
@@ -8733,8 +8733,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 140,
-                "Cooldown": 0.5
+                "Damage": 1400,
+                "Cooldown": 0.25
             },
             {
                 "Price": 1500,
@@ -8751,8 +8751,8 @@
             {
                 "Price": 2500,
                 "Range": 20,
-                "Damage": 300,
-                "Cooldown": 0.5
+                "Damage": 3000,
+                "Cooldown": 0.3
             }
         ]
     },
@@ -8900,11 +8900,11 @@
             }
         ]
     },
-    "Frost Plushtrap": {
+    "Igaguri": {
         "Type": "Splash Slow",
-        "Image": "rbxassetid://83475745010763",
-        "Rarity": "Secret",
-        "PlacePrice": 3500,
+        "Image": "rbxassetid://95908690300422",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5650,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -8916,7 +8916,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 3000,
+                "Damage": 30000,
                 "Cooldown": 3,
                 "Slow": 0.6,
                 "SlowTime": 2
@@ -8940,7 +8940,7 @@
             {
                 "Price": 6000,
                 "Range": 25,
-                "Damage": 6000,
+                "Damage": 60000,
                 "Cooldown": 2.5,
                 "Slow": 0.6,
                 "SlowTime": 2
@@ -9044,11 +9044,11 @@
         ]
     },
 
-    "Glamrock Freddy": {
-        "Type": "Splash",
-        "Image": "rbxassetid://136791971118007",
-        "Rarity": "Rare",
-        "PlacePrice": 500,
+    "Don Lorenzo": {
+        "Type": "TRUE ACE",
+        "Image": "rbxassetid://78893857909970",
+        "Rarity": "World Class",
+        "PlacePrice": 50000,
         "Offset": 0.5,
         "Max": 3,
         "hitboxOffset": {
@@ -9060,7 +9060,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 250,
+                "Damage": 250000,
                 "Cooldown": 2
             },
             {
@@ -9078,7 +9078,7 @@
             {
                 "Price": 900,
                 "Range": 25,
-                "Damage": 600,
+                "Damage": 300000,
                 "Cooldown": 1.5
             }
         ]
