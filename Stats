@@ -9871,12 +9871,12 @@
             }
         ]
     },
-    "Hermes Puppeteer": {
+    "Freddle5": {
         "Type": "Splash + Booster",
-        "Image": "rbxassetid://83624388314614",
+        "Image": "rbxassetid://112363071257166",
         "Passive": {"Name": "Cooldown Boost", "Description": "All units in range recieve -26% cooldown"},
-        "Rarity": "Mythic",
-        "PlacePrice": 10000,
+        "Rarity": "Nightmare",
+        "PlacePrice": 500,
         "NoEnemyAttack": true,
         "Offset": 0.4,
         "Max": 2,
@@ -9890,7 +9890,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 2500,
-                "Cooldown": 2.5,
+                "Cooldown": 1,
                 "CooldownBoost": 0.9
             },
             {
@@ -9911,7 +9911,7 @@
                 "Price": 16000,
                 "Range": 25,
                 "Damage": 4000,
-                "Cooldown": 2.3,
+                "Cooldown": 1,
                 "CooldownBoost": 0.74
             }
         ]
