@@ -12374,5 +12374,236 @@
                 "WitherTime": 10
             }
         ]
-    }
+    },
 }
+"Scooper": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 600,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Deviant Puppet": {
+        "Type": "AOE",
+        "Image": "rbxassetid://16620303027",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60000,
+                "Cooldown": 4
+            }
+        ]
+    },
+ "JJ": {
+        "Type": "NUKE + STUN",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 4000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 6000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Funtime Mangle": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16620303027",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60000,
+                "Cooldown": 4
+            }
+        ]
+    },
+"Chocolate Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Apex",
+        "PlacePrice": 22000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 4000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 60000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "HOLDER": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16620303027",
+        "Rarity": "Common",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
