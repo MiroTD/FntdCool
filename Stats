@@ -12374,8 +12374,8 @@
                 "WitherTime": 10
             }
         ]
-},
-"Scooper": {
+    },
+    "Scooper": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Secret",
@@ -12452,7 +12452,7 @@
             }
         ]
     },
- "JJ": {
+    "JJ": {
         "Type": "NUKE + STUN",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Secret",
