@@ -12447,7 +12447,7 @@
             {
                 "Price": 1500,
                 "Range": 14,
-                "Damage": 60000,
+                "Damage": 120000,
                 "Cooldown": 4
             }
         ]
@@ -12524,7 +12524,7 @@
             {
                 "Price": 1500,
                 "Range": 14,
-                "Damage": 60000,
+                "Damage": 50000,
                 "Cooldown": 4
             }
         ]
