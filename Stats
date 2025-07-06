@@ -12529,7 +12529,7 @@
             }
         ]
     },
-"Chocolate Bonnie": {
+    "Chocolate Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Apex",
@@ -12568,11 +12568,11 @@
             }
         ]
     },
-    "HOLDER": {
-        "Type": "Explosion",
+    "Flamethrower Endo": {
+        "Type": "BURN + ACROVATE",
         "Image": "rbxassetid://16620303027",
-        "Rarity": "Common",
-        "PlacePrice": 500,
+        "Rarity": "Nightmare",
+        "PlacePrice": 3000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -12583,7 +12583,7 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 50,
+                "Damage": 5000,
                 "Cooldown": 2
             },
             {
@@ -12601,7 +12601,7 @@
             {
                 "Price": 1500,
                 "Range": 14,
-                "Damage": 60,
+                "Damage": 6000,
                 "Cooldown": 1.5
             }
         ]
