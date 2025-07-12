@@ -12608,7 +12608,7 @@
     },
     "PurpleKid": {
         "Type": "AOE",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://100116721478765",
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
@@ -12647,7 +12647,7 @@
     },
     "Undead Juggernaut": {
         "Type": "Single Stun",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://105283321110239",
         "Rarity": "Mythic",
         "PlacePrice": 3500,
         "Max": 3,
@@ -12686,7 +12686,7 @@
     },
     "Shark": {
         "Type": "AOE",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://117253944434895",
         "Rarity": "Nightmare",
         "PlacePrice": 3500,
         "Max": 2,
@@ -12725,7 +12725,7 @@
      },
      "MiroTD": {
         "Type": "Single Stun",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://126153030115938",
         "Rarity": "Burn",
         "PlacePrice": 8500,
         "Max": 3,
@@ -12803,7 +12803,7 @@
     },
     "Burger Bonnie": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://129792447836801",
         "Rarity": "Rare",
         "PlacePrice": 1750,
         "Max": 9,
@@ -12842,7 +12842,7 @@
     },
     "Mc Foxy Frysheiro": {
         "Type": "AOE",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://137789782346445",
         "Rarity": "Epic",
         "PlacePrice": 2500,
         "Max": 9,
@@ -12881,7 +12881,7 @@
     },
     "Roast Boys": {
         "Type": "Explosion + Burn",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://138200657224395",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
         "Max": 9,
@@ -12920,7 +12920,7 @@
     },
     "Pepsi Carnie": {
         "Type": "Splash + Stun",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://114650195087723",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 9,
@@ -12959,7 +12959,7 @@
     },
     "Cola Carnie": {
         "Type": "AOE + Poison",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://92044552456672",
         "Rarity": "Nightmare",
         "PlacePrice": 35000,
         "Max": 9,
@@ -12998,7 +12998,7 @@
     },
     "Amalgamated Puppet": {
         "Type": "Summoner",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://115967803832100",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Max": 9,
