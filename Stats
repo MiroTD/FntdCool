@@ -12684,7 +12684,7 @@
             }
         ]
     },
-    "Shark": {
+    "Sharks": {
         "Type": "AOE",
         "Image": "rbxassetid://117253944434895",
         "Rarity": "Nightmare",
@@ -12957,7 +12957,7 @@
             }
         ]
     },
-    "Cola Carnie": {
+    "Coke Carnie": {
         "Type": "AOE + Poison",
         "Image": "rbxassetid://92044552456672",
         "Rarity": "Nightmare",
