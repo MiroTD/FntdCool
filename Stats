@@ -12800,5 +12800,239 @@
                 "Cooldown": 0.75
             }
         ]
+    },
+    "Burger Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Rare",
+        "PlacePrice": 1750,
+        "Max": 9,
+        "Offset": 0.7,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 400,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 0.55
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 600,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 600,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Mc Foxy Frysheiro": {
+        "Type": "AOE",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Epic",
+        "PlacePrice": 2500,
+        "Max": 9,
+        "Offset": 0.7,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 4000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 10000,
+                "Cooldown": 4
+            }
+        ]
+    },
+    "Roast Boys": {
+        "Type": "Explosion + Burn",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Mythic",
+        "PlacePrice": 5000,
+        "Max": 9,
+        "Offset": 0.7,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 4000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 8000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Pepsi Carnie": {
+        "Type": "Splash + Stun",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 9,
+        "Offset": 0.7,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 10000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 65,
+                "Damage": 100000,
+                "Cooldown": 8
+            }
+        ]
+    },
+    "Cola Carnie": {
+        "Type": "AOE + Poison",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Nightmare",
+        "PlacePrice": 35000,
+        "Max": 9,
+        "Offset": 0.7,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 100,
+                "Damage": 100000,
+                "Cooldown": 8
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 150,
+                "Damage": 1000000,
+                "Cooldown": 16
+            }
+        ]
+    },
+    "Amalgamated Puppet": {
+        "Type": "Summoner",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Max": 9,
+        "Offset": 0.7,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 40000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 600000,
+                "Cooldown": 15
+            }
+        ]
     }
 }
