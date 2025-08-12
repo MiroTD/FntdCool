@@ -37,7 +37,7 @@
                 "Cooldown": 0.1
             }
         ]
-    },
+    }, 
    "Void Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
