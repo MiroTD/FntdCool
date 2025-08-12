@@ -41,10 +41,10 @@
  "Void Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Offset": 0.65,
-        "Max": 5,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
