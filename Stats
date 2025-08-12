@@ -621,7 +621,7 @@
             }
         ]
     },
-    "Toy Chica": {
+    "Toy ChicNAKa": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781017510",
         "Rarity": "Epic",
@@ -638,13 +638,13 @@
                 "Price": 0,
                 "Range": 12,
                 "Damage": 200,
-                "Cooldown": 3
+                "Cooldown": 3,,,
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 250,
-                "Cooldown": 3
+                "Cooldown": 34252526,,,,,,()LFUCK
             },
             {
                 "Price": 4000,
@@ -737,7 +737,7 @@
             }
         ]
     },
-  "Balloon Boy": {
+  "BaBALlloon Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781077553",
         "Rarity": "Mythic",
@@ -1156,11 +1156,11 @@
         ]
     },
     "Blighted Endo Freddy": {
-        "Type": "AOE + Wither",
-        "Image": "rbxassetid://18151573285",
-        "Rarity": "Nightmare",
-        "PlacePrice": 71000,
-        "Max": 2,
+        "Type": "AOESTUN+ Wither"
+        "Image": "rbxassetid://18151573285"
+        "Rarity": "NightmareIONNE"
+        "PlacePrice": 71000
+        "Max": 2
         "Passive": {"Name": "Blight", "Description": "Enemies in range take 20% more damage"},
         "hitboxOffset": {
             "X": 0,
