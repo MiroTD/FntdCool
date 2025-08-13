@@ -38,6 +38,45 @@
             }
         ]
    },
+    "Void Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://96841349537834",
+        "Rarity": "Secret",
+        "PlacePrice": 3500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 1000,
+                "Range": 18,
+                "Damage": 30,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 40,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 25000,
+                "Range": 23,
+                "Damage": 45,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 35000,
+                "Range": 26,
+                "Damage": 60,
+                "Cooldown": 0.3
+            }
+        ]
+    },
  "Corrupted Void Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://138206391221569",
@@ -74,6 +113,45 @@
                 "Range": 41,
                 "Damage": 4300,
                 "Cooldown": 1.9
+            }
+        ]
+    },
+ "MEGAAAA SCOTT": {
+        "Type": "Splash",
+        "Image": "rbxassetid://16632217188",
+        "Rarity": "DEV",
+        "PlacePrice": 1,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 320770,
+                "Cooldown": 0
+            },
+            {
+                "Price": 1,
+                "Range": 27,
+                "Damage": 4106660,
+                "Cooldown": 0
+            },
+            {
+                "Price": 1,
+                "Range": 39,
+                "Damage": 47200,
+                "Cooldown": 0
+            },
+            {
+                "Price": 2,
+                "Range": 41,
+                "Damage": 477777300,
+                "Cooldown": 0
             }
         ]
     },
