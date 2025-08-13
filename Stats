@@ -386,13 +386,13 @@
                     "Cooldown": 0.9
                 }
             ]
-        },
+       },
         "Withered Foxy": {
-            "Type": "AOE SAMI KIDNEY",
+            "Type": "Dual",
             "Image": "rbxassetid://16632135968",
-            "Rarity": "Nightmare",
-            "PlacePrice": 10,
-            "Max": 30000,
+            "Rarity": "Epic",
+            "PlacePrice": 1200,
+            "Max": 3,
             "hitboxOffset": {
                 "X": 0,
                 "Y": 0,
@@ -403,7 +403,7 @@
                 {
                     "Price": 0,
                     "Range": 15,
-                    "Damage": 2000000000050,
+                    "Damage": 250,
                     "Cooldown": 1
                 },
                 {
