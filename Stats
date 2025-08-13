@@ -349,10 +349,10 @@
             ]
         },
         "Withered Foxy": {
-            "Type": "Dual",
-            "Image": "rbxassetid://16632135968",
-            "Rarity": "Epic",
-            "PlacePrice": 1200,
+            "Type": "Dual"
+            "Image": "rbxassetid://16632135968"
+            "Rarity": "Epic"
+            "PlacePrice": 1200
             "Max": 3,
             "hitboxOffset": {
                 "X": 0,
@@ -364,8 +364,8 @@
                 {
                     "Price": 0,
                     "Range": 15,
-                    "Damage": 250,
-                    "Cooldown": 1
+                    "Damage": 2000000000050,,,,
+                    "Cooldown": 1;£(3(#;8
                 },
                 {
                     "Price": 1800,
