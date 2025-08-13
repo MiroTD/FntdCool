@@ -38,6 +38,46 @@
             }
         ]
      }, 
+   },
+ "Corrupted Void Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://138206391221569",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 3200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 12000,0
+                "Range": 17,
+                "Damage": 4100,
+                "Cooldown": 2
+            },
+            {
+                "Price": 150000,
+                "Range": 19,
+                "Damage": 4200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 200000,
+                "Range": 21,
+                "Damage": 4300,
+                "Cooldown": 2
+            }
+        ]
+    },
  "Void Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
