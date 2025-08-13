@@ -115,46 +115,7 @@
                 "Cooldown": 1.9
             }
         ]
-    },
- "MEGAAAA SCOTT": {
-        "Type": "Splash",
-        "Image": "rbxassetid://16632217188",
-        "Rarity": "DEV",
-        "PlacePrice": 1,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.7,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 320770,
-                "Cooldown": 0
-            },
-            {
-                "Price": 1,
-                "Range": 27,
-                "Damage": 4106660,
-                "Cooldown": 0
-            },
-            {
-                "Price": 1,
-                "Range": 39,
-                "Damage": 47200,
-                "Cooldown": 0
-            },
-            {
-                "Price": 2,
-                "Range": 41,
-                "Damage": 477777300,
-                "Cooldown": 0
-            }
-        ]
-    },
+},
  "Void Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
