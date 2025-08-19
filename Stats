@@ -40,7 +40,7 @@
     },
     "Magma Puppet": {
         "Type": "Perice",
-        "Image": "rbxassetid://107571657742861",
+        "Image": "rbxassetid://118747597521880",
         "Rarity": "Nightmare",
         "PlacePrice": 4000,
         "Max": 4,
@@ -91,7 +91,7 @@
     },
     "Shadow CupCake": {
         "Type": "Splash",
-        "Image": "rbxassetid://124250807703944",
+        "Image": "rbxassetid://89892053152931",
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 2,
