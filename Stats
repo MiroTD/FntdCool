@@ -79,10 +79,10 @@
       }, 
     "Golden Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
-        "Max": 8,
+        "Image": "rbxassetid://101037285635643",
+        "Rarity": "Secret",
+        "PlacePrice": 3250,
+        "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -93,26 +93,26 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Damage": 200,
+                "Cooldown": 2
             },
             {
-                "Price": 500,
+                "Price": 2000,
                 "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Damage": 500,
+                "Cooldown": 2.3
             },
             {
-                "Price": 750,
+                "Price": 3500,
                 "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Damage": 555,
+                "Cooldown": 2.2
             },
             {
-                "Price": 1250,
+                "Price": 4250,
                 "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Damage": 777,
+                "Cooldown": 2.1
             }
         ]
     },
