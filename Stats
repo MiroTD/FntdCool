@@ -157,7 +157,7 @@
     "Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
@@ -273,7 +273,7 @@
     "Withered Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://16632239120",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
@@ -311,7 +311,7 @@
     "Withered Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://16632217188",
-        "Rarity": "Secret",
+        "Rarity": "Mythical",
         "PlacePrice": 20000,
         "Max": 3,
         "hitboxOffset": {
@@ -504,7 +504,7 @@
     "Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781119726",
-        "Rarity": "Secret",
+        "Rarity": "Mythical",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
@@ -543,7 +543,7 @@
     "Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://17270065249",
-        "Rarity": "Secret",
+        "Rarity": "Mythical",
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
@@ -581,7 +581,7 @@
   "Balloon Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781077553",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 5000,
         "Max": 3,
         "AnimationOffset": -5,
@@ -620,7 +620,7 @@
     "Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://17629034232",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 4000,
         "Max": 2,
         "Offset": 0,
