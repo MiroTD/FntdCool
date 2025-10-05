@@ -1563,7 +1563,7 @@
    "Phantom Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18356356760",
-        "Rarity": "Secret",
+        "Rarity": "Mythical",
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
