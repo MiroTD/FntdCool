@@ -77,45 +77,6 @@
             }
         ]
     },
-    "Rich Withered Bonnie": {
-         "Type": "Splash",
-        "Image": "rbxassetid://90209905317139",
-        "Rarity": "Secret",
-        "PlacePrice": 777,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12,
-                "Damage": 77,
-                "Cooldown": 0.7
-            },
-            {
-                "Price": 777,
-                "Range": 15,
-                "Damage": 77,
-                "Cooldown": 0.6
-
-            },
-            {
-                "Price": 878,
-                "Range": 18,
-                "Damage": 77,
-                "Cooldown": 0.7
-            }
-            {
-                "Price": 1100,
-                "Range": 20,
-                "Damage": 87,
-                "Cooldown": 0.7
-            }
-        ]
-    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
