@@ -2022,26 +2022,26 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 1760,
+                "Damage": 900,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
                 "Range": 18,
-                "Damage": 1920,
-                "Cooldown": 1.5
+                "Damage": 1200,
+                "Cooldown": 2
             },
             {
                 "Price": 17000,
                 "Range": 20,
-                "Damage": 3520,
-                "Cooldown": 1.5
+                "Damage": 1222,
+                "Cooldown": 2
             },
             {
                 "Price": 22000,
                 "Range": 22,
-                "Damage": 4000,
-                "Cooldown": 1
+                "Damage": 1432,
+                "Cooldown": 2
             }
         ]
     },
