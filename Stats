@@ -533,8 +533,8 @@
                 "Range": 26,
                 "Damage": 50,
                 "Cooldown": 0.05
-            }
-        ]
+               }
+            ]
         },
     "Rich Withered Bonnie": {
         "Type": "Continuous",
@@ -572,8 +572,8 @@
                 "Range": 26,
                 "Damage": 200,
                 "Cooldown": 2
-            }
-        ]
+                 }
+            ]
         },
         "Withered Chica": {
             "Type": "Single",
