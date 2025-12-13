@@ -346,7 +346,7 @@
     },
     "FNTD2 Phantom Foxy": {
         "Type": "Splash Posion",
-        "Image": rbxassetid://87347052120135",
+    "Image": "rbxassetid://87347052120135",
         "Rarity": "Secret",
         "PlacePrice": 5500,
         "Max": 2,
