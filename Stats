@@ -348,7 +348,7 @@
         "Type": "Splash Posion",
         "Image": "rbxassetid://92463943815778",
         "Rarity": "Exotic",
-        "PlacePrice": 32500,
+        "PlacePrice": 62500,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -358,27 +358,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 2080,
-                "Cooldown": 4
+                "Range": 14,
+                "Damage": 4080,
+                "Cooldown": 3
             },
             {
                 "Price": 13000,
-                "Range": 12,
-                "Damage": 3000,
+                "Range": 16,
+                "Damage": 4000,
                 "Cooldown": 3
             },
             {
                 "Price": 21000,
-                "Range": 14,
-                "Damage": 4345,
+                "Range": 20,
+                "Damage": 5345,
                 "Cooldown": 3
             },
             {
                 "Price": 32500 ,
-                "Range": 15,
-                "Damage": 4450,
-                "Cooldown": 2.1
+                "Range": 25,
+                "Damage": 7450,
+                "Cooldown": 2
             }
         ]
     },
