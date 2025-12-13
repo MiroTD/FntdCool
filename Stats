@@ -192,6 +192,82 @@
             }
         ]
     },
+    "FNTD2 Phantom Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://94741540539869",
+        "Rarity": "Epic",
+        "PlacePrice": 1300,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 280,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 10,
+                "Damage": 400,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2100,
+                "Range": 12,
+                "Damage": 350,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 2200,
+                "Range": 14,
+                "Damage": 370,
+                "Cooldown": 1.7
+            }
+        ]
+    },
+    "FNTD2 Phantom Cupcake": {
+        "Type": "Single",
+        "Image": "rbxassetid://94741540539869",
+        "Rarity": "Mythic",
+        "PlacePrice": 2800,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 180,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2400,
+                "Range": 10,
+                "Damage": 200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2800,
+                "Range": 12,
+                "Damage": 250,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 3200,
+                "Range": 14,
+                "Damage": 270,
+                "Cooldown": 1.7
+            }
+        ]
+    },
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
