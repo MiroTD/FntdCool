@@ -267,45 +267,7 @@
                 "Cooldown": 2.9
             }
         ]
-    },
-    "FNTD2 Phantom Foxy": {
-        "Type": "Splash Posion",
-        "Image": "rbxassetid://87347052120135",
-        "Rarity": "Secret",
-        "PlacePrice": 5500,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 10,
-                "Damage": 680,
-                "Cooldown": 2.2
-            },
-            {
-                "Price": 3000,
-                "Range": 12,
-                "Damage": 700,
-                "Cooldown": 2.2
-            },
-            {
-                "Price": 4100,
-                "Range": 14,
-                "Damage": 445,
-                "Cooldown": 2.1
-            },
-            {
-                "Price": 6200,
-                "Range": 17,
-                "Damage": 800,
-                "Cooldown": 2
-            }
-        ]
-    },
+   },
     "FNTD2 Phantom Mangle": {
         "Type": "Splash Posion",
         "Image": "rbxassetid://87347052120135",
