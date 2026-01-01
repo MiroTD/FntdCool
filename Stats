@@ -39,6 +39,82 @@
             }
         ]
     },
+    "Soldier Bonnie": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16620303027",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Zombie Toy Freddy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16620303027",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
@@ -232,44 +308,6 @@
             }
         ]
     },
-    "Small Head Freddy": {
-        "Type": "Dual",
-        "Image": "rbxassetid://127349671623919",
-        "Rarity": "Epic",
-        "PlacePrice": 1000,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12,
-                "Damage": 80,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1600,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1
-            },
-            {
-                "Price": 2000,
-                "Range": 18,
-                "Damage": 120,
-                "Cooldown": 1
-            },
-            {
-                "Price": 3000,
-                "Range": 20,
-                "Damage": 150,
-                "Cooldown": 0.75
-            }
-        ]
-    },
     "Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781017510",
@@ -344,84 +382,6 @@
                 "Price": 30000,
                 "Range": 22,
                 "Damage": 500,
-                "Cooldown": 0.75
-            }
-        ]
-    },
-    "Big Head Chica": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://127033621827665",
-        "Rarity": "Secret",
-        "PlacePrice": 12500,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.2,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 200,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 20000,
-                "Range": 17,
-                "Damage": 300,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 25000,
-                "Range": 20,
-                "Damage": 400,
-                "Cooldown": 1
-            },
-            {
-                "Price": 30000,
-                "Range": 22,
-                "Damage": 500,
-                "Cooldown": 0.75
-            }
-        ]
-    },
-    "Fat Bonnie": {
-        "Type": "Dual Slow  Wither",
-        "Image": "rbxassetid://113862919048274",
-        "Rarity": "Nightmare",
-        "PlacePrice": 22450,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.2,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 700,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 20000,
-                "Range": 17,
-                "Damage": 900,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 25000,
-                "Range": 20,
-                "Damage": 1200,
-                "Cooldown": 1
-            },
-            {
-                "Price": 30000,
-                "Range": 22,
-                "Damage": 1500,
                 "Cooldown": 0.75
             }
         ]
@@ -713,83 +673,6 @@
                 "Cooldown": 0.3
             }
         ]
-    },
-    "Plane Boy": {
-        "Type": "Continuous",
-        "Image": "rbxassetid://17689713814",
-        "Rarity": "Secret",
-        "PlacePrice": 20000,
-        "Offset": 2,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 35,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 30000,
-                "Range": 30,
-                "Damage": 45,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 40000,
-                "Range": 35,
-                "Damage": 60,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 50000,
-                "Range": 40,
-                "Damage": 65,
-                "Cooldown": 0.05
-            }
-        ]
-    },
-    "Rockin Bonnie": {
-        "Type": "AOE",
-        "Image": "rbxassetid://17689695988",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
-        "Max": 5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 800,
-                "Range": 18,
-                "Damage": 125,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 1200,
-                "Range": 20,
-                "Damage": 150,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 1600,
-                "Range": 20,
-                "Damage": 175,
-                "Cooldown": 0.5
-            }
-        ]
 },
  "Marionette's Puppeteer": {
         "Type": "AOE",
@@ -828,45 +711,7 @@
                 "Damage": 1006,
                 "Cooldown": 1.5
             }
-        ]
-   },
-   "Phantom Chica": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://18356356760",
-        "Rarity": "Secret",
-        "PlacePrice": 15000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 400,
-                "Cooldown": 1.75
-            },
-            {
-                "Price": 20000,
-                "Range": 17,
-                "Damage": 700,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 25000,
-                "Range": 19,
-                "Damage": 800,
-                "Cooldown": 1
-            },
-            {
-                "Price": 30000,
-                "Range": 21,
-                "Damage": 1250,
-                "Cooldown": 1
-            }
-        ]
+       ]
    },
     "FazCade": {
         "Type": "Farm",
@@ -908,46 +753,7 @@
                 "Damage": 100,
                 "Cooldown": 4,
                 "Farm": 600
-            }
-        ]
-    },
-  "Bounded Shadow": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://18363555442",
-        "Rarity": "Nightmare",
-        "PlacePrice": 12500,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 16,
-                "Damage": 900,
-                "Cooldown": 2
-            },
-            {
-                "Price": 15000,
-                "Range": 18,
-                "Damage": 1200,
-                "Cooldown": 2
-            },
-            {
-                "Price": 17000,
-                "Range": 20,
-                "Damage": 1222,
-                "Cooldown": 2
-            },
-            {
-                "Price": 22000,
-                "Range": 22,
-                "Damage": 1432,
-                "Cooldown": 2
-   
-
+                
             }
         ]
     }
