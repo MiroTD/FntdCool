@@ -130,7 +130,7 @@
     },
     "Soldier Bonnie": {
         "Type": "Single",
-        "Image": "rbxassetid://97929563558228",
+        "Image": "rbxassetid://106001337920854",
         "Rarity": "Secret",
         "PlacePrice": 700,
         "Max": 2,
@@ -143,26 +143,26 @@
             {
                 "Price": 0,
                 "Range": 13,
-                "Damage": 50,
+                "Damage": 40,
                 "Cooldown": 0.5
             },
             {
                 "Price": 800,
                 "Range": 14,
-                "Damage": 60,
+                "Damage": 45,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 15,
-                "Damage": 60,
+                "Damage": 50,
                 "Cooldown": 0.4
             },
             {
                 "Price": 1500,
-                "Range": 18,
-                "Damage": 60,
-                "Cooldown": 0.3
+                "Range": 19,
+                "Damage": 55,
+                "Cooldown": 0.4
             }
         ]
     },
