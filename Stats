@@ -39,6 +39,45 @@
             }
         ]
     },
+    "Mango Mangle": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://84282324183695",
+        "Rarity": "Secret",
+        "PlacePrice": 12500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 220,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 20000,
+                "Range": 17,
+                "Damage": 320,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 420,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 530,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Blighted Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://18151573285",
