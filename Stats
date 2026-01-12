@@ -624,8 +624,47 @@
             {
                 "Price": 2200,
                 "Range": 12,
-                "Damage": 245,
+                "Damage": 250,
                 "Cooldown": 1.5
+            }
+        ]
+    },
+    "Party Foxy": {
+        "Type": "Melee",
+        "Image": "rbxassetid://78211731436319",
+        "Rarity": "Mythic",
+        "PlacePrice": 3400,
+        "Offset": 0.65,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 9,
+                "Damage": 200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4200,
+                "Range": 11,
+                "Damage": 220,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 12,
+                "Damage": 230,
+                "Cooldown": 2
+            },
+            {
+                "Price": 9500,
+                "Range": 12,
+                "Damage": 360,
+                "Cooldown": 2
             }
         ]
     },
