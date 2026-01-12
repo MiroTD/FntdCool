@@ -311,6 +311,45 @@
             }
         ]
     },
+    "Enraged Marionette": {
+        "Type": "Perice",
+        "Image": "rbxassetid://82288655635973",
+        "Rarity": "Boss",
+        "PlacePrice": 32000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 40000,
+                "Range": 17,
+                "Damage": 1500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4444,
+                "Range": 20,
+                "Damage": 2100,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6666,
+                "Range": 22,
+                "Damage": 2500,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Blighted Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://18151573285",
