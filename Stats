@@ -272,6 +272,45 @@
             }
         ]
     },
+    "Shadow Puppet": {
+        "Type": "Perice",
+        "Image": "rbxassetid://96617879265840",
+        "Rarity": "Apex",
+        "PlacePrice": 55555,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 3200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 68787,
+                "Range": 17,
+                "Damage": 4100,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 88888,
+                "Range": 20,
+                "Damage": 6200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 99998,
+                "Range": 22,
+                "Damage": 8888,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Blighted Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://18151573285",
