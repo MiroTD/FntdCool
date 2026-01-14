@@ -477,7 +477,7 @@
         ]
     },
     "Ignited Freddy": {
-        "Type": "AOE",
+        "Type": "AOE + Poison",
         "Image": "rbxassetid://16620303027",
         "Rarity": "Secret",
         "PlacePrice": 6400,
