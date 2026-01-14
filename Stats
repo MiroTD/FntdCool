@@ -104,24 +104,6 @@
         "Offset": -0.2,
         "Upgrades": [
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 3200,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 68787,
-                "Range": 17,
-                "Damage": 4100,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 88888,
-                "Range": 20,
-                "Damage": 6200,
-                "Cooldown": 1
-            },
-            {
                 "Price": 88888,
                 "Range": 20,
                 "Damage": 7100,
@@ -195,12 +177,6 @@
                 "Range": 28,
                 "Damage": 2333,
                 "Cooldown": 2
-           },
-            {
-                "Price": 5555,
-                "Range": 28,
-                "Damage": 2443,
-                "Cooldown": 2
             },
             {
                 "Price": 5555,
@@ -237,25 +213,7 @@
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
                 "WitherTime": 1
-            },
-            {
-                "Price": 25000,
-                "Range": 21,
-                "Damage": 75,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.2,
-                "WitherTime": 1
-           },
-            {
-                "Price": 25000,
-                "Range": 21,
-                "Damage": 85,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.2,
-                "WitherTime": 1
-           },
+           
             {
                 "Price": 25000,
                 "Range": 21,
@@ -268,7 +226,7 @@
             {
                 "Price": 25000,
                 "Range": 21,
-                "Damage": 130,
+                "Damage": 175,
                 "Cooldown": 0.25,
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
@@ -278,7 +236,7 @@
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 150,
+                "Damage": 111,
                 "Cooldown": 0.30,
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
@@ -287,7 +245,7 @@
             {
                 "Price": 45000,
                 "Range": 26,
-                "Damage": 188,
+                "Damage": 122,
                 "Cooldown": 0.25,
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
