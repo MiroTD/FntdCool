@@ -53,12 +53,6 @@
         "Offset": -0.2,
         "Upgrades": [
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 220,
-                "Cooldown": 1.5
-            },
-            {
                 "Price": 20000,
                 "Range": 17,
                 "Damage": 320,
