@@ -476,10 +476,10 @@
             }
         ]
     },
-    "Purple Guy": {
+    "Fighter Jet Foxy": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
-        "Rarity": "Hero",
+        "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
         "hitboxOffset": {
@@ -514,10 +514,48 @@
             }
         ]
     },
-    "Dancing Guy": {
+    "Ignited Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
-        "Rarity": "Hero",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Withered Endo Freddy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16620303027",
+        "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
         "hitboxOffset": {
