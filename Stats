@@ -117,14 +117,32 @@
             },
             {
                 "Price": 88888,
-                "Range": 20,
-                "Damage": 8100,
+                "Range": 21,
+                "Damage": 7577,
                 "Cooldown": 1
             },
             {
-                "Price": 99998,
+                "Price": 888789,
                 "Range": 22,
+                "Damage": 8111,
+                "Cooldown": 1
+           },
+            {
+                "Price": 888888,
+                "Range": 20,
                 "Damage": 8888,
+                "Cooldown": 1
+            },
+            {
+                "Price": 999988,
+                "Range": 25,
+                "Damage": 11111,
+                "Cooldown": 1
+           },
+            {
+                "Price": 9999889,
+                "Range": 27,
+                "Damage": 12888,
                 "Cooldown": 1
             }
         ]
