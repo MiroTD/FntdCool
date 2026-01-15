@@ -477,11 +477,11 @@
         ]
     },
     "Ignited Freddy": {
-        "Type": "AOE + Poison",
+        "Type": "AOE",
         "Image": "rbxassetid://16620303027",
         "Rarity": "Secret",
-        "PlacePrice": 6400,
-        "Max": 1,
+        "PlacePrice": 4400,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -490,26 +490,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 8,
-                "Damage": 300,
+                "Range": 11,
+                "Damage": 500,
                 "Cooldown": 1
             },
             {
                 "Price": 7777,
-                "Range": 9,
-                "Damage": 400,
+                "Range": 11,
+                "Damage": 600,
                 "Cooldown": 1
             },
             {
                 "Price": 7878,
-                "Range": 10,
-                "Damage": 425,
+                "Range": 11,
+                "Damage": 725,
                 "Cooldown": 1
             },
             {
                 "Price": 8888,
-                "Range": 10,
-                "Damage": 455,
+                "Range": 12,
+                "Damage": 855,
                 "Cooldown": 1
             }
         ]
@@ -528,26 +528,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 13,
-                "Damage": 25,
+                "Range": 15,
+                "Damage": 30,
                 "Cooldown": 0.05
             },
             {
                 "Price": 1000,
-                "Range": 14,
-                "Damage": 27,
+                "Range": 15,
+                "Damage": 33,
                 "Cooldown": 0.05
             },
             {
                 "Price": 1200,
-                "Range": 14,
-                "Damage": 28,
+                "Range": 16,
+                "Damage": 35,
                 "Cooldown": 0.05
             },
             {
                 "Price": 1500,
-                "Range": 15,
-                "Damage": 30,
+                "Range": 18,
+                "Damage": 40,
                 "Cooldown": 0.05
             }
         ]
