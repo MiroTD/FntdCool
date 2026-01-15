@@ -39,6 +39,123 @@
             }
         ]
     },
+"Baker Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://109159106652492",
+        "Rarity": "Rare",
+        "PlacePrice": 700,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 70,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 12,
+                "Damage": 80,
+                "Cooldown": 1
+            },
+            {
+                "Price": 950,
+                "Range": 14,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 110,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+"Baker Toy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://119069309024207",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 100,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 800,
+                "Range": 12,
+                "Damage": 115,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 950,
+                "Range": 14,
+                "Damage": 125,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 150,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+"Chef Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://122808189711974",
+        "Rarity": "Nightmare",
+        "PlacePrice": 9500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 700,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 8000,
+                "Range": 7,
+                "Damage": 1000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 9500,
+                "Range": 17,
+                "Damage": 1200,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 12500,
+                "Range": 21,
+                "Damage": 1400,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Mango Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://84282324183695",
