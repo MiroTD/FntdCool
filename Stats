@@ -117,6 +117,123 @@
             }
         ]
     },
+"Toxic Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://1340034852330390",
+        "Rarity": "Secret",
+        "PlacePrice": 850,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 100,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 800,
+                "Range": 12,
+                "Damage": 115,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 950,
+                "Range": 13,
+                "Damage": 155,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 1250,
+                "Range": 14,
+                "Damage": 170,
+                "Cooldown": 0.35
+            }
+        ]
+    },
+"Toxic Endo 02": {
+        "Type": "Single",
+        "Image": "rbxassetid://96508415338887",
+        "Rarity": "Secret",
+        "PlacePrice": 1100,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 150,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 12,
+                "Damage": 200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2500,
+                "Range": 12,
+                "Damage": 350,
+                "Cooldown": 2
+            },
+            {
+                "Price": 3250,
+                "Range": 12,
+                "Damage": 555,
+                "Cooldown": 2
+            }
+        ]
+    },
+"Toxic Withered Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://118183442255046",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 250,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 8000,
+                "Range": 14,
+                "Damage": 260,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 25000,
+                "Range": 14,
+                "Damage": 277,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 32500,
+                "Range": 15,
+                "Damage": 280,
+                "Cooldown": 0.3
+            }
+        ]
+    },
 "Chef Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://122808189711974",
@@ -1189,45 +1306,6 @@
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
                 "WitherTime": 1
-            }
-        ]
-    },
-    "Endo 02": {
-        "Type": "Single",
-        "Image": "rbxassetid://17690383931",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
-        "Max": 4,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.5,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 30,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 1200,
-                "Range": 18,
-                "Damage": 35,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 1600,
-                "Range": 22,
-                "Damage": 45,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 2200,
-                "Range": 25,
-                "Damage": 60,
-                "Cooldown": 0.3
             }
         ]
 },
