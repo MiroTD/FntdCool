@@ -453,11 +453,11 @@
             }
         ]
     },
-    "Deer": {
-        "Type": "Explosion",
+    "L01B#!T": {
+        "Type": "Cone AOE",
         "Image": "rbxassetid://93268322789345",
         "Rarity": "Nightmare",
-        "PlacePrice": 6666,
+        "PlacePrice": 747,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -467,34 +467,34 @@
         "Offset": -0.2,
         "Upgrades": [
             {
-                "Price": 20000,
+                "Price": 999,
                 "Range": 17,
-                "Damage": 720,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 25000,
-                "Range": 20,
-                "Damage": 920,
+                "Damage": 300,
                 "Cooldown": 1
             },
             {
-                "Price": 26000,
+                "Price": 1111,
                 "Range": 20,
-                "Damage": 1233,
-                "Cooldown": 1.25
+                "Damage": 333,
+                "Cooldown": 1
             },
             {
-                "Price": 27000,
+                "Price": 2121,
                 "Range": 20,
-                "Damage": 1234,
-                "Cooldown": 1.25
+                "Damage": 343,
+                "Cooldown": 1
             },
             {
-                "Price": 30000,
+                "Price": 2700,
+                "Range": 20,
+                "Damage": 747,
+                "Cooldown": 1.
+            },
+            {
+                "Price": 3000,
                 "Range": 22,
-                "Damage": 1235,
-                "Cooldown": 1.25
+                "Damage": 747,
+                "Cooldown": 1
             }
         ]
     },
