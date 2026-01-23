@@ -456,9 +456,9 @@
     "L01B#!T": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://93268322789345",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 747,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
