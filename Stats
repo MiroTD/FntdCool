@@ -408,9 +408,48 @@
             }
         ]
     },
+    "Dreadful Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://116290382917401",
+        "Rarity": "Mythic",
+        "PlacePrice": 2200,
+        "Offset": 0.65,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 9,
+                "Damage": 200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1200,
+                "Range": 11,
+                "Damage": 220,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1800,
+                "Range": 12,
+                "Damage": 245,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2200,
+                "Range": 12,
+                "Damage": 250,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "Dreadful Freddy": {
         "Type": "Signle",
-        "Image": "rbxassetid://137234758533526",
+        "Image": "rbxassetid://103863995565903",
         "Rarity": "Epic",
         "PlacePrice": 700,
         "Max": 3,
