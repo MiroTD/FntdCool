@@ -408,12 +408,12 @@
             }
         ]
     },
-    "Bounded Endo": {
-        "Type": "Explosion",
+    "Dreadful Freddy": {
+        "Type": "Signle",
         "Image": "rbxassetid://137234758533526",
-        "Rarity": "Secret",
-        "PlacePrice": 12500,
-        "Max": 2,
+        "Rarity": "Epic",
+        "PlacePrice": 700,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -422,34 +422,28 @@
         "Offset": -0.2,
         "Upgrades": [
             {
-                "Price": 20000,
-                "Range": 17,
-                "Damage": 320,
+                "Price": 900,
+                "Range": 9
+                "Damage": 50,
                 "Cooldown": 1.25
             },
             {
-                "Price": 25000,
-                "Range": 20,
-                "Damage": 420,
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 100,
                 "Cooldown": 1
             },
             {
-                "Price": 26000,
-                "Range": 20,
-                "Damage": 433,
+                "Price": 2000,
+                "Range": 12,
+                "Damage": 125,
                 "Cooldown": 1
             },
             {
-                "Price": 27000,
-                "Range": 20,
-                "Damage": 450,
+                "Price": 2700,
+                "Range": 12.5,
+                "Damage": 125,
                 "Cooldown": 1
-            },
-            {
-                "Price": 30000,
-                "Range": 22,
-                "Damage": 530,
-                "Cooldown": 0.75
             }
         ]
     },
