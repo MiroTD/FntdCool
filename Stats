@@ -502,6 +502,83 @@
             }
         ]
     },
+  "Astronaut Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://133184226704783",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 1,
+        "AnimationOffset": -5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 800,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 10000,
+                "Range": 18,
+                "Damage": 875,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 900,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 975,
+                "Cooldown": 3.5
+            }
+        ]
+    },
+    "BlackHole Chica": {
+        "Type": "AOE",
+        "Image": "rbxassetid://134491579597910",
+        "Rarity": "Secret",
+        "PlacePrice": 9500,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18.5,
+                "Damage": 20,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 19,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 37,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 24,
+                "Damage": 47,
+                "Cooldown": 0.05
+            }
+        ]
+    },
     "Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://17629034232",
