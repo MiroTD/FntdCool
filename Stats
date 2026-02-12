@@ -386,9 +386,9 @@
             }
         ]
     },
-    "Mangle": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://16781119726",
+    "Red Bear": {
+        "Type": "Line",
+        "Image": "rbxassetid://111463483701858",
         "Rarity": "Secret",
         "PlacePrice": 12500,
         "Max": 2,
@@ -413,15 +413,15 @@
             },
             {
                 "Price": 25000,
-                "Range": 20,
+                "Range": 17,
                 "Damage": 400,
                 "Cooldown": 1
             },
             {
                 "Price": 30000,
-                "Range": 22,
-                "Damage": 500,
-                "Cooldown": 0.75
+                "Range": 18,
+                "Damage": 515,
+                "Cooldown": 1
             }
         ]
     },
