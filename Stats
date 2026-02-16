@@ -38,6 +38,44 @@
             }
         ]
     },
+    "Radioactive Foxy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://140221326735019",
+        "Rarity": "Secret",
+        "PlacePrice": 450,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 800,
+                "Range": 25,
+                "Damage": 650,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 1200,
+                "Range": 32,
+                "Damage": 700,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 1500,
+                "Range": 35,
+                "Damage": 800,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
