@@ -574,6 +574,45 @@
                 "Cooldown": 1.5
             }
         ]
+},
+ "8 Bit Spring Bonnie": {
+        "Type": "Line Bleed",
+        "Image": "rbxassetid://16781095520",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5555,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 800,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 18,
+                "Damage": 1200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 19,
+                "Damage": 1600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2000,
+                "Range": 19,
+                "Damage": 2000,
+                "Cooldown": 2
+            }
+        ]
     },
     "Toy Bonnie": {
         "Type": "Dual",
@@ -764,6 +803,44 @@
                 "Range": 18,
                 "Damage": 36,
                 "Cooldown": 0.05
+            }
+        ]
+    },
+"Black Hole Chica": {
+        "Type": "AOE",
+        "Image": "rbxassetid://136392091215694",
+        "Rarity": "Secret",
+        "PlacePrice": 9000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 19,
+                "Damage": 20,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 9500,
+                "Range": 19,
+                "Damage": 24,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 12500,
+                "Range": 22,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 22500,
+                "Range": 25,
+                "Damage": 45,
+                "Cooldown": 0.04
             }
         ]
     },
