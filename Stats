@@ -590,26 +590,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 17,
-                "Damage": 800,
-                "Cooldown": 2
-            },
-            {
-                "Price": 1000,
-                "Range": 18,
-                "Damage": 1200,
-                "Cooldown": 2
-            },
-            {
-                "Price": 1500,
                 "Range": 19,
-                "Damage": 1600,
+                "Damage": 1500,
                 "Cooldown": 2
             },
             {
-                "Price": 2000,
+                "Price": 9999,
                 "Range": 19,
+                "Damage": 1900,
+                "Cooldown": 2
+            },
+            {
+                "Price": 11111,
+                "Range": 21,
                 "Damage": 2000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 21212,
+                "Range": 21,
+                "Damage": 3500,
                 "Cooldown": 2
             }
         ]
@@ -810,7 +810,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://136392091215694",
         "Rarity": "Secret",
-        "PlacePrice": 9000,
+        "PlacePrice": 5000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -831,7 +831,7 @@
                 "Cooldown": 0.05
             },
             {
-                "Price": 12500,
+                "Price": 13500,
                 "Range": 22,
                 "Damage": 30,
                 "Cooldown": 0.05
@@ -839,7 +839,7 @@
             {
                 "Price": 22500,
                 "Range": 25,
-                "Damage": 45,
+                "Damage": 40,
                 "Cooldown": 0.04
             }
         ]
@@ -887,7 +887,7 @@
         "Type": "Explosion",
         "Image": "rbxassetid://125820987889174",
         "Rarity": "Mythic",
-        "PlacePrice": 5000,
+        "PlacePrice": 2500,
         "Max": 3,
         "AnimationOffset": -5,
         "hitboxOffset": {
