@@ -41,7 +41,7 @@
     "Leprechaun Freddy": {
         "Type": "Line",
         "Image": "rbxassetid://92597379653625",
-        "Rarity": "Nightmare",
+        "Rarity": "St Patrick",
         "PlacePrice": 7777,
         "Max": 2,
         "hitboxOffset": {
@@ -75,6 +75,7 @@
                 "Cooldown": 2
             }
         ]
+},
     "Silver Eyes Foxy": {
         "Type": "Explosion",
         "Image": "rbxassetid://121282863585204",
