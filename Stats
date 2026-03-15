@@ -38,7 +38,43 @@
             }
         ]
     },
-    
+    "Leprechaun Freddy": {
+        "Type": "Line",
+        "Image": "rbxassetid://92597379653625",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7777,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 400,
+                "Cooldown": 2
+            },
+            {
+                "Price": 7777,
+                "Range": 17,
+                "Damage": 500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 8777,
+                "Range": 19,
+                "Damage": 575,
+                "Cooldown": 2
+            },
+            {
+                "Price": 9777,
+                "Range": 21,
+                "Damage": 675,
+                "Cooldown": 2
+            }
+        ]
     "Silver Eyes Foxy": {
         "Type": "Explosion",
         "Image": "rbxassetid://121282863585204",
