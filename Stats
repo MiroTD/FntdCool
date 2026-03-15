@@ -79,7 +79,7 @@
     "Silver Eyes Foxy": {
         "Type": "Explosion",
         "Image": "rbxassetid://121282863585204",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 800,
         "Max": 2,
         "hitboxOffset": {
