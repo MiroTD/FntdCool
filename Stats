@@ -114,6 +114,44 @@
             }
         ]
     },
+    "Bacon Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://78036207935428",
+        "Rarity": "Exclusive",
+        "PlacePrice": 3200,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 300,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 4000,
+                "Range": 16,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4250,
+                "Range": 17,
+                "Damage": 325,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 19,
+                "Damage": 325,
+                "Cooldown": 1
+            }
+        ]
+},
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
