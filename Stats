@@ -76,44 +76,6 @@
             }
         ]
     },
-    "Egg Chica": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://95866356663166",
-        "Rarity": "Exclusive",
-        "PlacePrice": 3200,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12.5,
-                "Damage": 300,
-                "Cooldown": 2
-            },
-            {
-                "Price": 800,
-                "Range": 13,
-                "Damage": 320,
-                "Cooldown": 2
-            },
-            {
-                "Price": 1200,
-                "Range": 14,
-                "Damage": 335,
-                "Cooldown": 2
-            },
-            {
-                "Price": 1500,
-                "Range": 14,
-                "Damage": 335,
-                "Cooldown": 2
-    
-        ]
-    },
     "Bacon Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://78036207935428",
