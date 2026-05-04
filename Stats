@@ -192,7 +192,7 @@
 },
     "SwordMaster Freddy": {
         "Type": "Cone AOE",
-        "Image": "rbxassetid://80438678823771",
+        "Image": "rbxassetid://70726735770021",
         "Rarity": "MiniGame",
         "PlacePrice": 7777,
         "Max": 2,
@@ -268,7 +268,7 @@
 },
     "Glamrock Mangle": {
         "Type": "Splash",
-        "Image": "rbxassetid://92455614307498",
+        "Image": "rbxassetid://94719338399609",
         "Rarity": "Exclusive",
         "PlacePrice": 5000,
         "Max": 1,
