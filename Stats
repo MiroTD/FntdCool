@@ -190,11 +190,87 @@
             }
         ]
 },
+    "SwordMaster Freddy": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://80438678823771",
+        "Rarity": "MiniGame",
+        "PlacePrice": 7777,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 345,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 8888,
+                "Range": 18,
+                "Damage": 350,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 9999,
+                "Range": 19,
+                "Damage": 365,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 17171,
+                "Range": 22,
+                "Damage": 375,
+                "Cooldown": 1.1
+            }
+        ]
+},
     "Vampire Afton": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://92455614307498",
         "Rarity": "Exclusive",
-        "PlacePrice": 2500,
+        "PlacePrice": 3500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 310,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2000,
+                "Range": 16,
+                "Damage": 320,
+                "Cooldown": 2
+            },
+            {
+                "Price": 3250,
+                "Range": 16,
+                "Damage": 335,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4500,
+                "Range": 17,
+                "Damage": 345,
+                "Cooldown": 1.9
+            }
+        ]
+},
+    "Glamrock Mangle": {
+        "Type": "Splash",
+        "Image": "rbxassetid://92455614307498",
+        "Rarity": "Exclusive",
+        "PlacePrice": 5000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -204,27 +280,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 13,
+                "Range": 15,
                 "Damage": 350,
-                "Cooldown": 1.5
+                "Cooldown": 2
             },
             {
                 "Price": 2000,
-                "Range": 13,
+                "Range": 15,
                 "Damage": 350,
-                "Cooldown": 1.5
+                "Cooldown": 2
             },
             {
                 "Price": 3250,
-                "Range": 14,
+                "Range": 15,
                 "Damage": 375,
-                "Cooldown": 1.5
+                "Cooldown": 2
             },
             {
                 "Price": 4500,
-                "Range": 14,
+                "Range": 16,
                 "Damage": 395,
-                "Cooldown": 1.5
+                "Cooldown": 2
             }
         ]
 },
