@@ -304,6 +304,44 @@
             }
         ]
 },
+    "Withered El Chip": {
+        "Type": "Splash",
+        "Image": "rbxassetid://132372432238322",
+        "Rarity": "Exclusive",
+        "PlacePrice": 7000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 2
+            },
+            {
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4250,
+                "Range": 15,
+                "Damage": 375,
+                "Cooldown": 2
+            },
+            {
+                "Price": 5500,
+                "Range": 16,
+                "Damage": 395,
+                "Cooldown": 2
+            }
+        ]
+},
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
