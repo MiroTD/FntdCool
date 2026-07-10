@@ -76,6 +76,44 @@
             }
         ]
 },
+    "H4acked Puppet": {
+        "Type": "Splash",
+        "Image": "rbxassetid://124819968260267",
+        "Rarity": "Nightmare",
+        "PlacePrice": 11111,
+        "Max": `1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 80,
+                "Damage": 2000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 22222,
+                "Range": 84,
+                "Damage": 3200,
+                "Cooldown": 4.2
+            },
+            {
+                "Price": 32000,
+                "Range": 92,
+                "Damage": 3600,
+                "Cooldown": 4.2
+            },
+            {
+                "Price": 72500,
+                "Range": 111,
+                "Damage": 4444,
+                "Cooldown": 4.4
+            }
+        ]
+},
     "Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://16620218689",
