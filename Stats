@@ -1939,30 +1939,30 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 67676767,
-                "Cooldown": 0,
-                "Farm": 67676767
+                "Damage": 6767,
+                "Cooldown": 1,
+                "Farm": 676767
             },
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 111111111111,
+                "Damage": 111111,
                 "Cooldown": 0,
-                "Farm": 6767676767
+                "Farm": 676767
             },
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 737474740555,
-                "Cooldown": 0,
-                "Farm": 6767676774774548
+                "Damage": 73790,
+                "Cooldown": 1,
+                "Farm": 676767
             },
             {
                 "Price": 0,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 0,
-                "Farm": 676767676767676767676767676767
+                "Cooldown": 1,
+                "Farm": 676767
             }
         ]
     },
