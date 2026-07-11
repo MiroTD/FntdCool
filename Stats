@@ -2125,7 +2125,7 @@
 "Dark Water Bare Endo FazCade": {
 	"Type": "Farm",
 	"Image": "rbxassetid://88428064334506",
-	"Rarity": "Nightmare",
+	"Rarity": "Secret",
 	"PlacePrice": 1250,
 	"Max": 4,
 	"hitboxOffset": {
