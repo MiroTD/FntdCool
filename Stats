@@ -506,10 +506,48 @@
             }
         ]
     },
-    "Cursed Foxy": {
-        "Type": "Single",
-        "Image": "rbxassetid://75736956965960",
-        "Rarity": "Epic",
+"Swimmer Scott": {
+	"Type": "Splash",
+	"Image": "rbxassetid://16620303027",
+	"Rarity": "Apex",
+	"PlacePrice": 12500,
+	"Max": 2,
+	"hitboxOffset": {
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"Upgrades": [
+	{
+		"Price": 0,
+		"Range": 50,
+		"Damage": 5000,
+		"Cooldown": 2
+	},
+	{
+		"Price": 25000,
+		"Range": 52,
+		"Damage": 8500,
+		"Cooldown": 1.9
+	},
+	{
+		"Price": 30000,
+		"Range": 55,
+		"Damage": 11250,
+		"Cooldown": 1.6
+	},
+	{
+		"Price": 50000,
+		"Range": 60,
+		"Damage": 20000,
+		"Cooldown": 1.5
+	}
+	]
+},
+    "Summer Toy Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://93446041555043",
+        "Rarity": "Mythic",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -1728,6 +1766,45 @@
             }
         ]
     },
+  },
+    "SunWave Cupcake": {
+        "Type": "Single",
+        "Image": "rbxassetid://122982736999660",
+        "Rarity": "Epic",
+        "PlacePrice": 900,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 80,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1200,
+                "Range": 16,
+                "Damage": 140,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2000,
+                "Range": 17,
+                "Damage": 275,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 3000,
+                "Range": 18,
+                "Damage": 400,
+                "Cooldown": 1.5
+            }
+        ]
+    },
    "Phantom Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18356356760",
@@ -1923,6 +2000,171 @@
             }
         ]
   },
+"Sunwave Withered Bonnie": {
+	"Type": "Single + Burn",
+	"Image": "rbxassetid://88428064334506",
+	"Rarity": "Mythic",
+	"PlacePrice": 4750,
+	"Max": 2,
+	"hitboxOffset": {
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"Upgrades": [
+	{
+		"Price": 0,
+		"Range": 5,
+		"Damage": 25,
+		"Cooldown": 0.1,
+	},
+	{
+		"Price": 500,
+		"Range": 7,
+		"Damage": 30,
+		"Cooldown": 0.1,
+	},
+	{
+		"Price": 8500,
+		"Range": 10,
+		"Damage": 40,
+		"Cooldown": 0.1,
+	},
+	{
+		"Price": 25000,
+		"Range": 18,
+		"Damage": 60,
+		"Cooldown": 0.4,
+	}
+	]
+},
+"LifeGuard Afton": {
+	"Type": "Range Boost",
+	"Image": "rbxassetid://77933207876444",
+	"Rarity": "Nightmare",
+	"PlacePrice": 1250,
+	"Max": 3,
+	"hitboxOffset": {
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"Upgrades": [
+	{
+		"Price": 0,
+		"Range": 15,
+		"Damage": 0,
+		"Cooldown": 1,
+		"RangeBoost": 1.5
+	},
+	{
+		"Price": 2000,
+		"Range": 17,
+		"Damage": 0,
+		"Cooldown": 1,
+		"RangeBoost": 1.6
+	},
+	{
+		"Price": 2500,
+		"Range": 17,
+		"Damage": 0,
+		"Cooldown": 1,
+		"RangeBoost": 1.65
+	},
+	{
+		"Price": 5000,
+		"Range": 18,
+		"Damage": 0,
+		"Cooldown": 1,
+		"RangeBoost": 2
+	}
+	]
+},
+    "Sand Dune FaceCade": {
+        "Type": "Farm",
+        "Image": "rbxassetid://74891055435608",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 400
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 700
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 1200
+            },
+            {
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 2400
+            }
+        ]
+  },
+"Dark Water Bare Endo FazCade": {
+	"Type": "Farm",
+	"Image": "rbxassetid://88428064334506",
+	"Rarity": "Nightmare",
+	"PlacePrice": 1250,
+	"Max": 4,
+	"hitboxOffset": {
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"Upgrades": [
+	{
+		"Price": 0,
+		"Range": 15,
+		"Damage": 100,
+		"Cooldown": 4,
+		"Farm": 100
+	},
+	{
+		"Price": 1500,
+		"Range": 15,
+		"Damage": 100,
+		"Cooldown": 4,
+		"Farm": 300
+	},
+	{
+		"Price": 10000,
+		"Range": 15,
+		"Damage": 100,
+		"Cooldown": 4,
+		"Farm": 2000
+	},
+	{
+		"Price": 20000,
+		"Range": 15,
+		"Damage": 100,
+		"Cooldown": 4,
+		"Farm": 4500
+	}
+	]
+},
     "A7's FazCade": {
         "Type": "Farm + AuraLoss",
         "Image": "rbxassetid://86718923947333",
