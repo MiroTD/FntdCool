@@ -3139,7 +3139,7 @@
         ]
     },
     "Tarnished Spring Bonnie": {
-        "Type": "Cone AOE + Passive",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://18777411515",
         "Rarity": "Secret",
         "PlacePrice": 600,
@@ -3154,45 +3154,45 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 300,
-                "Cooldown": 0.5,
+                "Range": 18,
+                "Damage": 100,
+                "Cooldown": 1.5,
                 "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
             },
             {
                 "Price": 700,
-                "Range": 24,
-                "Damage": 325,
-                "Cooldown": 0.5,
+                "Range": 18,
+                "Damage": 150,
+                "Cooldown": 1.5,
                 "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
             },
             {
                 "Price": 900,
-                "Range": 25,
-                "Damage": 350,
-                "Cooldown": 0.4,
+                "Range": 18,
+                "Damage": 175,
+                "Cooldown": 1,
                 "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
             },
             {
                 "Price": 1000,
-                "Range": 26,
-                "Damage": 375,
-                "Cooldown": 0.4,
+                "Range": 18,
+                "Damage": 215,
+                "Cooldown": 1,
                 "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
             },
             {
                 "Price": 1200,
-                "Range": 27,
-                "Damage": 400,
-                "Cooldown": 0.3,
+                "Range": 19,
+                "Damage": 300,
+                "Cooldown": 1,
                 "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
