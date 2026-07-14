@@ -79,7 +79,7 @@
     "The Duck King": {
         "Type": "AOE + DUCK",
         "Image": "rbxassetid://97814600563238",
-        "Rarity": "AURA",
+        "Rarity": "Aura",
         "PlacePrice": 2016,
         "Max": 2016,
         "hitboxOffset": {
