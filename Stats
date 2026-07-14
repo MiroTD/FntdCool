@@ -76,44 +76,6 @@
             }
         ]
 },
-    "The Duck King": {
-        "Type": "AOE + DUCK",
-        "Image": "rbxassetid://97814600563238",
-        "Rarity": "Aura",
-        "PlacePrice": 2016,
-        "Max": 2016,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 26,
-                "Damage": 5000,
-                "Cooldown": 0.26
-            },
-            {
-                "Price": 800,
-                "Range": 26,
-                "Damage": 6000,
-                "Cooldown": 0.26
-            },
-            {
-                "Price": 1200,
-                "Range": 32,
-                "Damage": 6000,
-                "Cooldown": 0.26
-            },
-            {
-                "Price": 1500,
-                "Range": 446,
-                "Damage": 6000,
-                "Cooldown": 0.26
-            }
-        ]
-},
     "H4acked Puppet": {
         "Type": "Splash",
         "Image": "rbxassetid://124819968260267",
