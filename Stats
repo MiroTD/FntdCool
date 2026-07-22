@@ -346,6 +346,45 @@
             }
         ]
     },
+    "WHITE RABBIT": {
+        "Type": "AOE",
+        "Image": "rbxassetid://134395279289625",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.25,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 25,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 35000,
+                "Range": 17.5,
+                "Damage": 30,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 50000,
+                "Range": 18,
+                "Damage": 40,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 70000,
+                "Range": 18,
+                "Damage": 50,
+                "Cooldown": 0.25
+            }
+        ]
+    },
     "Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
